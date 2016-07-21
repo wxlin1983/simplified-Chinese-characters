@@ -4,4 +4,4 @@ This repo contains the images of 8105 simplified Chinese characters which I obta
 The original document can be downloaded from:
 http://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf
 
-While the character table can be found online, since there are some known problems about the digitalization of the table, I think it's potentially useful to have the table in its original form.
+While table of simplified Chinese characters can be found online, there are some known issues about the digitalization of the table, for example, some characters in this table do not have properly created fonts. What is worse, not all characters in this table exist in unicode. I think it's useful to have the table in its original form as published.
