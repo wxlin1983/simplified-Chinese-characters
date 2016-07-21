@@ -5,3 +5,5 @@ The original document can be downloaded from:
 http://www.gov.cn/gzdt/att/att/site1/20130819/tygfhzb.pdf
 
 While tables of simplified Chinese characters can be found online, there are some known issues with the digitalization of the table, for example, some characters in this table do not have properly created fonts. What is worse, not all characters in this table exist in unicode. I think it's useful to have the table in its original form as published.
+
+Since it's published by the goverment, I think copyright of the images is not an issue. Take it if you wish.
